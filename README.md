@@ -44,7 +44,7 @@ The dataset contains retail transaction information, including:
 - Product ID, Category, Sub-Category, and Product Name
 - Sales, Quantity, Discount, and Profit
 
-**Dataset Source:** [Kaggle – Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-fi)
+**Dataset Source:** [Kaggle – Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## 5. Data Preprocessing
 
